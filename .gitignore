@@ -1,3 +1,5 @@
 *.ipynb
 *.pkl
 *.csv
+__pycache__/
+models/
