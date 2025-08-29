@@ -1,0 +1,8 @@
+pandas==2.3.2
+numpy==2.2.6
+scikit-learn==1.5.0
+pyarrow==21.0.0
+pandas-gbq
+google-cloud-pubsub
+google-cloud-bigquery
+google-cloud-aiplatform
